@@ -1,29 +1,66 @@
+<head>
+  <link rel="stylesheet" href="style.css">
 
-<body style="background-color:rgba(117, 117, 117, 0.692);">
-<table border="8" cellspacing="10" cellpadding="20">
-    <tr>
-      <th>E-Mail</th>
-      <th>manuel.kasperzack@hs-furtwangen.de</th>
-      
-    </tr>
-    <tr>
-      <td>Postfach</td>
-      <td>00000 Mustermannstraße 6 - Musterstadt </td>
-     
-    </tr>
-    <tr>
-      <td>Telefon</td>
-      <td> 0000/000000 </td>
-    
-    </tr>
-  </table>
+</head>
+<body>
+<div class="Top_K_red">
+  <img src="Top_K_red.png" class="circle" alt="circle red">
+  
+  </div>
+  
+  
+  
+  <div class="Top_Text">
+  <h1>Portfolio</h1> 
+  
+  
   
   <br>
-  <p align="right">
-  <form>
+  <li > <h3 id="Name">Max Mustermann </h3><a id="facebook" href="https://facebook.com"><img src="icon_facebook.png"></a><br>  
+      
+   
+  
+  Der Mensch, der schreit, wird zwar gehört,<br> aber seine Worte 
+      werden vergessen - <br>der ruhige Mensch braucht gar nicht zu 
+      reden, <br>seine Taten sprechen für sich selbst. <br>-Konfuzius</li>
+  </div>
+
+
+
+  <br><br><br>
+
+<br><br>
+<div class="container">
+  <form action="action_page.php">
+
+    <label for="fname">Vorname</label>
+    <input type="text" id="fname" name="firstname" placeholder="Dein Vorname.."><br>
+
+    <label for="lname">Nachname</label>
+    <input type="text" id="lname" name="lastname" placeholder="Dein Nachname.."> <br>
+
+    <label for="country">Country</label>
+    <select id="country" name="country">
+      <option value="australia">Australien</option>
+      <option value="canada">Kanada</option>
+      <option value="canada">Deutschland</option>
+      <option value="usa">USA</option>
+    </select>
+<br>
     
-    <p align="right"> <input type="button" value="Go back!" onclick="history.back()">
-    </form></p>
+    <textarea id="subject" name="subject" placeholder="Deine Naricht" style="height:200px"></textarea>
+
+    <input type="submit" value="Senden">
+
+  </form>
+</div>
+
+
+<div class="ToolB">
+  <a href="uebung-3.html" id="navi1" >PORTFOLIO</a>
+  <a href="About-Me.html" id="navi2">ABOUT ME</a>
+  <a href="Contact.html" id="navi3"class="activepage">CONTACT</a>
+</div>
+
 
 </body>
-</html>
