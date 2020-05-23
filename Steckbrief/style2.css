@@ -1,0 +1,55 @@
+
+body {
+    background-image: url("bg2.png");
+}
+
+.CardP {
+    position: relative;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top:150px;
+}
+
+img[alt=Pinguin]{
+    display: inline-block;
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 140px;
+}
+
+img[alt=Muscheln]{
+display: inline-block;
+position: absolute;
+margin-left: -250px;
+margin-top: 150px;
+}
+
+#TopText {
+    display: inline-block;
+    position: absolute;
+    font-size: 18px;
+    font-weight: bolder;
+    text-align: left;
+    margin-top: -110px;
+    margin-left: 245px;
+    transform: translate(-50%, -50%);
+    color: white;
+
+}
+
+#Inhalt {
+    display: inline-block;
+    position: absolute;
+    font-size: 14px;
+    font-weight: bolder;
+    text-align: left;
+    margin-top: 50px;
+    margin-left: 235px;
+    transform: translate(-50%, -50%);
+    color: white;
+
+}

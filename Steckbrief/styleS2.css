@@ -1,0 +1,47 @@
+
+body {
+    background-image: url("bgS2.png");
+
+}
+
+.CardP {
+    position: relative;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top:150px;
+}
+
+
+.Muschel1 {
+    position: relative;
+    background-image: url(muschel.png);
+    height: 62px;
+    width: 70px;
+    left: -500px;
+}
+
+.image:hover {
+    background-image: url(muschel_perle.png);
+}
+
+.Muschel2 {
+    position: relative;
+    background-image: url(muschel.png);
+    height: 62px;
+    width: 70px;
+    left: -400px;
+    top: 100px;
+}
+
+.Muschel3 {
+    position: relative;
+    background-image: url(muschel.png);
+    height: 62px;
+    width: 70px;
+    left: -300px;
+    top: -100px;
+}

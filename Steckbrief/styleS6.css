@@ -1,0 +1,95 @@
+
+body {
+    background-image: url("bgS6.png");
+
+}
+
+.CardP {
+    position: relative;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top:150px;
+}
+
+#TopText {
+    display: inline-block;
+    position: absolute;
+    font-size: 18px;
+    font-weight: bolder;
+    text-align: left;
+    margin-top: -110px;
+    margin-left: -40px;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+#Text1 {
+    display: inline-block;
+    position: absolute;
+    font-size: 10px;
+    font-weight: bolder;
+    text-align: left;
+    margin-top: 30px;
+    margin-left: 30px;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+.Muschel {
+    display: inline-block;
+    position: absolute;
+    margin-left: 50px;
+    margin-top: -100px;
+ 
+    opacity: 0.5;
+}
+.Muschel2 {
+    display: inline-block;
+    position: absolute;
+    margin-left: -50px;
+    margin-top: 50px;
+
+    opacity: 0.5;
+}
+.Muschel3 {
+    display: inline-block;
+    position: absolute;
+    margin-left: -230px;
+    margin-top: 100px;
+
+    opacity: 0.5;
+}
+
+.Stern1 {
+    display: inline-block;
+    position: absolute;
+    margin-left: -250px;
+    margin-top: -100px;
+}
+.Stern2 {
+    display: inline-block;
+    position: absolute;
+    margin-left: 200px;
+    margin-top: -120px;
+}
+.Stern3 {
+    display: inline-block;
+    position: absolute;
+    margin-left: -250px;
+    margin-top: 150px;
+}
+
+#Baum{
+    
+ 
+    display: inline-block;
+    position: absolute;
+    margin-left: 180px;
+    margin-top: 52px;
+    animation-delay: 2s;
+
+
+}
