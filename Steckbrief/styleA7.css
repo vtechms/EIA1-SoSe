@@ -1,0 +1,161 @@
+
+body {
+text-align: center;
+background-color:#000000 ;
+}
+
+
+
+.button {
+background-color: #0f30eb; 
+border-radius: 10px;
+color: white;
+padding: 150px 150px;
+text-align: center;
+font-size: 16px;
+align-content: center;
+
+}
+
+.button2 {
+background-color: #0f30eb; 
+border-radius: 10px;
+color: white;
+padding: 150px 150px;
+text-align: center;
+font-size: 16px;
+align-content: center;
+
+}
+
+.button3 {
+background-color: #0f30eb; 
+border-radius: 10px;
+color: white;
+padding: 150px 150px;
+text-align: center;
+font-size: 16px;
+align-content: center; }
+
+
+.button4 {
+background-color: #cc33d1; 
+border-radius: 10px;
+color: white;
+padding: 150px 150px;
+text-align: center;
+font-size: 16px;
+align-content: center; }
+
+.button5 {
+background-color: #cc33d1; 
+border-radius: 10px;
+color: white;
+padding: 150px 150px;
+text-align: center;
+font-size: 16px;
+align-content: center; }
+
+.button6 {
+background-color: #cc33d1; 
+border-radius: 10px;
+color: white;
+padding: 150px 150px;
+text-align: center;
+font-size: 16px;
+align-content: center; }
+
+.button7 {
+background-color: #cc33d1; 
+border-radius: 10px;
+color: white;
+padding: 150px 150px;
+text-align: center;
+font-size: 16px;
+align-content: center; 
+}
+
+
+.button8 {
+background-color: #da8210; 
+border-radius: 10px;
+color: white;
+padding: 150px 150px;
+text-align: center;
+font-size: 16px;
+align-content: center;
+
+}
+.button9 {
+background-color: #da8210; 
+border-radius: 10px;
+color: white;
+padding: 150px 150px;
+text-align: center;
+font-size: 16px;
+align-content: center;
+}
+
+.button10 {
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.button:hover {
+background-color: #6d63c5;
+color: white;
+}
+.button2:hover {
+background-color: #6d63c5;
+color: white;
+}
+
+.button3:hover {
+background-color: #6d63c5;
+color: white;
+}
+
+.button4:hover {
+Background-color: #c26c94;
+color: white;
+}
+.button5:hover {
+background-color: #c26c94;
+color: white;
+}
+.button6:hover {
+background-color: #c26c94;
+color: white;
+}
+.button7:hover {
+background-color: #c26c94;
+color: white;
+}
+.button8:hover {
+background-color: #db9262;
+color: white;
+}
+.button9:hover {
+background-color: #db9262
+color: white;
+}
+
+.Test:hover {
+background-color: #db9262
+color: white;
+}
+
+
