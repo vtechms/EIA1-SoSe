@@ -149,11 +149,11 @@ background-color: #db9262;
 color: white;
 }
 .button9:hover {
-background-color: #db9262
+background-color: #db9262;
 color: white;
 }
 
-.Test:hover {
+.button:hover {
 background-color: #db9262
 color: white;
 }
