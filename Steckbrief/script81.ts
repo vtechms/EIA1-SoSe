@@ -239,7 +239,7 @@ runOnKeys(
 
 
 /*
-Veriosn A2 versteht vermutlich nicht die bedinungen 
+Veriosn A2 versteht vermutlich nicht die bedingung 
 
 switch (runOnKeys) {
   case "Numpad7":		// : leitet den Codeblock für den Fall ein, dass der Ausdruck gleich "A" ist
