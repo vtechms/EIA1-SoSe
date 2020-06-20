@@ -26,9 +26,9 @@ MyArray[7] = laugh1;
 MyArray[8] = laugh2;
 
 
-//hihat.play();
-
-
+//hihat.play();  
+//______________________________________________________________________________________________________________________________
+//NICHT WICHTIG FÜR ABGABE 8
 // Aufgabe 7 Ich Frag mich warum er, egal  bei welchem Button alle Töne ausgibt, wenn ich es so gemacht hätte?
 /*
 function playSample(){
@@ -52,6 +52,7 @@ laugh1.normalize();
 
 }
 */
+//______________________________________________________________________________________________________________________________
 function playSample(TonNr) {
   MyArray[TonNr].play();
 }
@@ -149,7 +150,7 @@ document.addEventListener('keydown', function(event) {
 
 
 
-//Bonus ...  eine Version gibt nur den letyten ton aus. die andere Version geht nicht  
+//Bonus Teils Internet...  eine Version gibt nur den letzten ton aus. die andere Version geht nicht  
 
 
 //************************************************************************************* */
