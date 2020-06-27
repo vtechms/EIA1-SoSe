@@ -141,7 +141,7 @@ function myNeuFunction() {
     console.log(zaehler);
 }
 function myNeuSkullFunction() {
-    alert("ALARM: Sie haben jetzt einene Virus!!");
+    alert("ALARM: Sie haben jetzt einen Virus!!");
 }
 window.addEventListener("load", function () {
     document.querySelector("#add").addEventListener("click", function () { myFunction(); });

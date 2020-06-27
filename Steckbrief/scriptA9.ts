@@ -208,7 +208,7 @@ console.log(zaehler)
 
 
 function myNeuSkullFunction() {
-alert("ALARM: Sie haben jetzt einene Virus!!");
+alert("ALARM: Sie haben jetzt einen Virus!!");
 }
 
 
